@@ -71,3 +71,4 @@ public class L2022211900_9_Test {
         assertFalse("Custom test case 3 failed", solution.possibleBipartition(n, dislikes));
     }
 }
+//测试顺利
